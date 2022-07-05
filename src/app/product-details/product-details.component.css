@@ -1,0 +1,7 @@
+.product-details{
+    display: grid;
+    background-color: antiquewhite;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}

@@ -1,0 +1,11 @@
+.product-list {
+    display: grid;
+    background-color: grey;
+    align-items: center;
+    justify-content: center;
+}
+
+.button{
+    color: white;
+    border-radius: 8px;
+}
